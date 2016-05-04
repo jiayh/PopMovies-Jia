@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortby_key">
+        <item>Popularity</item>
+        <item>Rating</item>
+    </string-array>
+    <string-array name="sortby_value">
+        <item>popular</item>
+        <item>top_rated</item>
+    </string-array>
+</resources>
